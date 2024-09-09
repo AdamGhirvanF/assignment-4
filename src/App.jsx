@@ -48,9 +48,9 @@ function App() {
 
     return(
     <>
-    <h1 class="text-center mt-4">Currency Exchange</h1>
+    <h1 class="text-center text-light mt-4">Currency Exchange</h1>
     <div class='container mt-4'>
-        <table class="table table-dark text-center">
+        <table class="table table-borderless text-center border-0 text-light">
             <thead>
             <tr>
                 <th></th>
